@@ -1,0 +1,5 @@
+{
+  "name": "MelodyCraft AI",
+  "description": "An AI-powered music composer that transforms text prompts into ABC notation, sheet music, and audio.",
+  "requestFramePermissions": []
+}
